@@ -22,3 +22,7 @@
 **Today's Progress**: Reading: Eloquent JavaScript & Think Like A Programmer 
 **Thoughts**: Continued Learning 
 **Video**: Bubble Sort -- https://www.youtube.com/watch?v=uJLwnsLn0_Q
+
+### Day 4: June 23, 2020
+**Today's Progress**: FreeCodeCamp Basic Javascript
+**Thoughts**: Continued Learning
